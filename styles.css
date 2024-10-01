@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(3, 3, 31);
+}
+
+h1 {
+    font-family: "Bungee Spice";
+    font-size: 4rem;
+    text-shadow: 3px 0 #000;
+    text-align: center;
+}
+
+.container {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.dice {
+    margin: 15px;
+}
+
+p {
+    color: rgb(222, 243, 36);
+    font-size: 22px;
+    font-weight: 600;
+}
+
+
+img {
+    width: 180px;
+    height: 180px;
+}
+
+footer p {
+    margin-top: 30px;
+    text-align: center;
+    font-family: "Bungee Spice";
+}
